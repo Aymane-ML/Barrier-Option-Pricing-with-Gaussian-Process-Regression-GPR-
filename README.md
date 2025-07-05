@@ -6,7 +6,7 @@ This project implements various methods to price a **down-and-out call barrier o
 
 | File            | Description |
 |-----------------|-------------|
-| `Projet2.ipynb` | Jupyter notebook containing the full implementation of pricing methods, GPR modeling, and sensitivity analysis (Delta, Gamma) |
+| `Barrier Option Pricing with GPR.ipynb` | Jupyter notebook containing the full implementation of pricing methods, GPR modeling, and sensitivity analysis (Delta, Gamma) |
 
 ## ⚙️ Methods Included
 
